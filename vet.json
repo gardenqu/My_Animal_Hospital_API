@@ -1,0 +1,84 @@
+
+[
+	{
+		"client":[
+		
+		{"first_name":"Olivia",
+			"last_name": "Johnson",
+			"address": "7268 Walnutwood Court, Granger, IN 46530",
+			"phone": "(252)217-9673",
+			"email": "oliJo@gmail.com",
+			"animal_count":2,
+			"new_client":"FALSE"
+			
+			},
+			{"first_name":"Megan",
+			"last_name": "Williams",
+			"address": "988 53rd Street ,Port Huron, IN 48060",
+			"phone": "(252)217-9673",
+			"email": "megwei@gmail.com",
+			"animal_count":1,
+			"new_client":"FALSE"},
+			
+			{"first_name":"Hugh",
+			"last_name": "Marks",
+			"address": "1 South Brook Drive Mount Holly, IN 08060",
+			"phone": "(252)217-9673",
+			"email": "MarksH@yahoo.com",
+			"animal_count":1,
+			"new_client":"FALSE"},
+			
+			{"first_name":"Mea",
+			"last_name":"Vazquez",
+			"address": "1 South Brook Drive ,Mount Holly, IN 08060",
+			"phone": "(252)217-9073",
+			"email": "Mvaz@gmail.com",
+			"animal_count":1,
+			"new_client":"FALSE"},
+			
+			{"first_name":"Chloe",
+			"last_name": "Wilson",
+			"address": "680 Summerhouse Drive, Elkton, IN 21921",
+			"phone": "(252)287-0859",
+			"email": "wilsonc@roots.com",
+			"animal_count":1,
+			"new_client":"TRUE"},
+			
+			{"first_name":"Rick",
+			"last_name": "Grimes",
+			"address": "21 Glen Ridge Dr. ,New Castle, IN 16101",
+			"phone": "(252)324-7325",
+			"email": "zombieHunt@gmail.com",
+			"animal_count":1,
+			"new_client":"TRUE"}
+			
+		
+		]},
+		{"pets":[
+			{"pet_name":"Basil","dob":"01/01/2021","species":"Dog","breed":"Boxer","sex":"f","weight":55,"previous_diagnosis":"obesity"},
+			{"pet_name":"'Boss'","dob":"03/2/2020","species":"'cat","breed":"Short-haired","sex":"m","weight":12,"previous_diagnosis":"none"},
+			{"pet_name":"Sugar","dob":"05/12/2012","species":"Dog","breed":"Beagle","sex":"f","weight":45,"previous_diagnosis":"none"},
+			{"pet_name":"Titan","dob":"04/4/2017","species":"'cat","breed":"Sphynx","sex":"m","weight":13,"previous_diagnosis":"Blind"},
+			{"pet_name":"Lucky","dob":"01/01/2013","species":"Dog","breed":"Akita","sex":"m","weight":60,"previous_diagnosis":"none"},
+			{"pet_name":"Smiley","dob":"03/06/2011","species":"'cat","breed":"Long haired","sex":"f","weight":14,"previous_diagnosis":"none"},
+			{"pet_name":"Wookie","dob":"07/2/2018","species":"Dog","breed":"Husky","sex":"m","weight":75,"previous_diagnosis":"none"}
+			]},
+
+		{"veterinarians":[
+			{"name":"Arron Smith","license_number":"123-000","speciality":"Surgery"},
+			{"name":"Mike Lee","license_number":"321-000","speciality":"Domestic Animal care"},
+			{"name":"Lucy Walker","license_number":"2431-000","speciality":"Domestic Animal Care"}
+		]
+		},{
+			"date_and_time":[
+				{"date":"04/4/2022", "time":"01:00"},
+				{"date":"04/4/2022", "time":"02:00"},
+				{"date":"04/4/2022", "time":"02:00"}
+			]
+		}
+
+
+]
+
+
+

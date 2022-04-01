@@ -1,0 +1,18 @@
+Quanayzia Garden
+March 13 2022
+
+My Animal Hospital 
+
+My Animal Hospital is an API that displays various data dealing with a veterinary hospital. It was designed with the front office workers in mind. Ideally there would be a nice Front end UI that would connect with my API and the user would be able to get Client information, Patient and appointment records, and various other things. 
+
+| Path                | Description |
+| -----------         | ----------- |
+| /clients            | A GET endpoint     |
+| /clients/<id pram>  | A GET endpoint     |
+
+
+Originally my project had more entities and relationships than what was required and I did not have time to find an populate them with data. Because of the time constraint I had to decrease the amount of entities I was gonna use. I also had to add a contact information entity becuases I needed a one-to-one relationship. I spent a good amount of time editing my ER model until I felt that it was ok to proceed with. 
+
+I choose to use ORM because it seemed like more of challenege. I also choose to use ORM becuase I felt it would help me become more comfortable with Flask. 
+
+I do wanna finish my API and make it an actual REST API. I need to finish adding all of the neccesary endpoint then I need to create a nice front end UI. I would also like to rewrite a lot of my code to make it more efficient. 
